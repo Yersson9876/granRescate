@@ -9,10 +9,10 @@ El gran rescate es un videojuego en el que controlamos a un gato que va en busca
 
 ## <b>¿Como se hizo?</b>
 
--Propuesta de Idea:
-  https://www.youtube.com/embed/4e8jeXlmq2c
--Versión Temprana del Juego:
-  https://www.youtube.com/watch?v=WAiPXDELVz8
+-Propuesta de Idea:<br>
+  https://www.youtube.com/embed/4e8jeXlmq2c<br>
+-Versión Temprana del Juego:<br>
+  https://www.youtube.com/watch?v=WAiPXDELVz8<br>
   
   
 ## <b>Requisitos del Sistema</b>
