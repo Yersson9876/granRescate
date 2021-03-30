@@ -6,3 +6,10 @@ El gran rescate es un videojuego en el que controlamos a un gato que va en busca
 ## <b>Captura de Pantallas</b>
 
 ## <b>Requisitos del Sistema</b>
+- SO: Windows 7 o Superior
+- Memoria: 4GB de Ram o Más
+- Video: Intel HD3000 o superior
+- Espacio: 100MB
+
+## <b>Creditos</b>
+  - [Unity] (https://unity.com/es) Motor de Videojuego
