@@ -1,1 +1,1 @@
-Pagina del Juego "El Gran Rescate"
+# <b>El Gran Rescate</b>
