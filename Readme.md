@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/badge/License-Unity-brightgreen)
-<p align="center"><img src="portada.png" height="180" width="450"></p>
+<p align="center"><img src="portada.png" height="180" width="550"></p>
 
 # <b>El Gran Rescate</b>
 El gran rescate es un videojuego en el que controlamos a un gato que va en busca de su madre, el cual fue sustraída de su hogar. Durante el juego el gato tendrá que recorrer la ciudad enfrentándose a enemigos que trataran de obstaculizar el rescate de su madre.
